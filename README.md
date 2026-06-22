@@ -30,3 +30,4 @@ Many formulas will be derived rather than computational applications. The index 
 ## Execution Protocol
 - **Logical Hierarchy:** If a proof of a theorem exceeds the current skill set, it will be postponed or noted for future verification. 
 - **Format:** Focus strictly on simplicity & intuition, excluding external commentary or promotional phrasing.
+- **Preview:** It is available using Obsidian or codespace
