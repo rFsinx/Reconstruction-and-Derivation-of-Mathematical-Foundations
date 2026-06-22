@@ -64,9 +64,11 @@ when n=1, their notations are excluded
 $$ \frac{p}{q} \qquad p \text{ and } q \text{ are integers} \quad  q \neq 0 $$
 
 **integers**
+
 $$
 \begin{array}{|c|c|c|c|c|c|c|c|c|} \hline \dots & -3 & -2 & -1 & 0 & +1 & +2 & +3 & \dots \\ \hline \end{array}
 $$
+
 $$
 \begin{align}
 & n \ \text{th digit} \implies a \times 10^{n-1} \qquad (a \text{ is integer, } 0 \leq a \leq 9, a \neq 0 \text{ if } n = 1 )
@@ -142,7 +144,7 @@ $$
 
 $$
 \begin{align}
-& X = a.n_1 n_2 \dots n_{k-p} \ \overline {n_{k+1-p} \dots n_k} \\
+& X = a.n_1 n_2 \dots n_{k-p} \ \overline{n_{k+1-p} \dots n_k} \\
 \\
 & (10^k - 10^{k-p})  X = \text{integer} \implies X = \frac{p}{q} \quad \left( p, q \text{ are integers} , \ q \neq 0 \right)
 \end{align}
