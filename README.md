@@ -10,19 +10,24 @@ Every equation is derived strictly from primitive definitions and axioms rather 
 
 ### Type I:
 i: 
+
 ii: 
 
 ### Type II:
 Algebra: 
+
 Geometry: 
+
 Probability & Statistics: 
 
 ### Type III:
 Calculus I: 
+
 Calculus II: 
 
 ### Type IV:
 Calculus III: 
+
 Linear Algebra: 
 
 ---
