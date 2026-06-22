@@ -28,5 +28,5 @@ Every equation is derived strictly from primitive definitions and axioms rather 
 ---
 
 ## Execution Protocol
-- **Logical Hierarchy:** No theorem is utilized unless its foundational steps are verified within this repository. If a proof of a theorem exceeds my current skill set, it will be postponed or noted for future verification. 
+- **Logical Hierarchy:** If a proof of a theorem exceeds the current skill set, it will be postponed or noted for future verification. 
 - **Format:** Focus strictly on causality, excluding external commentary or promotional phrasing.
