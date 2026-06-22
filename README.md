@@ -9,26 +9,21 @@ Every equation is derived strictly from primitive definitions and axioms rather 
 ## Index Structure
 
 ### Type I:
-i: 
-
-ii: 
+- i: 
+- ii: 
 
 ### Type II:
-Algebra: 
-
-Geometry: 
-
-Probability & Statistics: 
+- Algebra: 
+- Geometry: 
+- Probability & Statistics: 
 
 ### Type III:
-Calculus I: 
-
-Calculus II: 
+- Calculus I: 
+- Calculus II: 
 
 ### Type IV:
-Calculus III: 
-
-Linear Algebra: 
+- Calculus III: 
+- Linear Algebra: 
 
 ---
 
