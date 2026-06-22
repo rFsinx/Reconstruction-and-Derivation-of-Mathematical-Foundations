@@ -42,7 +42,7 @@ $$
 
 # Iterated Operations
 
- $a$ is a number in the number line; $n$ is a whole number
+ $a$ is a number in the number line; $n$ is a positive whole number
 
 ### multiplication
 ---
